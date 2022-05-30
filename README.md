@@ -23,7 +23,7 @@ Also, you can go back to Parent directory with cursor to `doubld dot(..)` and pr
 
 ## Notes
 
-This is Beta version! (It means, this function has some buggy things.)  
+**This is Beta version!** (It means, this function has some buggy things.)  
 So I need to change, fix and add some functions to improve this small project.  
 You can use it freely and make it better for yourself!  
 And I got a lot of help here:  
