@@ -5,6 +5,9 @@ small bash script for directory browsing
 
 ## Install
 ```sh
+
+## You can download file anywhere. In my case: '.local/store/bcd'
+
 mkdir ~/.local/share/bcd
 
 git clone https://github.com/Typiespectre/bcd.git ~/.local/share/bcd
