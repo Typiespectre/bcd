@@ -1,7 +1,7 @@
 # bcd
 small bash script for directory browsing  
 
-<img width="80%" src="/capture.gif"/>
+<img width="60%" src="/capture(1).gif"/>
 
 ## Install
 ```sh
@@ -19,9 +19,10 @@ alias bcd='source $HOME/.local/share/bcd/bcd.sh'
 ## Usage
 
 You can browse current directories with `arrow(Up and Down)` keys.  
-If you want to go inside next directory(child directory), move cursor and press `Enter` key.  
-You can stay current directory cursor to `single dot(.)` and press `Enter`.
-Also, you can go back to Parent directory with cursor to `doubld dot(..)` and press `Enter`.
+
+- If you want to go inside next directory(child directory), move cursor and press `Enter` key.  
+- You can stay current directory cursor to `single dot(.)` and press `Enter`.
+- Also, you can go back to Parent directory with cursor to `doubld dot(..)` and press `Enter`.
 
 ## Notes
 
