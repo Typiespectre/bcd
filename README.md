@@ -1,5 +1,7 @@
 # bcd
-small bash script for directory browsing
+small bash script for directory browsing  
+
+<img width="80%" src="/capture.gif"/>
 
 ## Install
 ```sh
