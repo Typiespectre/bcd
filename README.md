@@ -6,7 +6,7 @@ small bash script for directory browsing
 ## Install
 ```sh
 
-## You can download file anywhere. In my case: '.local/store/bcd'
+## You can download file anywhere. In my case: '~/.local/share/bcd'
 
 mkdir ~/.local/share/bcd
 
